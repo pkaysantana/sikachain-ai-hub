@@ -1,16 +1,16 @@
 # Sikachain AI Hub
 
-Welcome to **Sikachain AI Hub** — a decentralized data infrastructure and marketplace for AI agents, powered by [Akave](https://docs.akave.ai). This project serves as a foundational module for Sikachain, enabling real-time AI data retrieval, efficient storage, and secure monetization of datasets and model artifacts.
+Welcome to **Sikachain AI Hub** — a decentralised data infrastructure and marketplace for AI agents, powered by [Akave](https://docs.akave.ai). This project serves as a foundational module for Sikachain, enabling real-time AI data retrieval, efficient storage, and secure monetisation of datasets and model artifacts.
 
 ---
 
 ## 🚀 Features
 
-- 🔥 **Real-Time Decentralized Retrieval**: Built with Akave SDK for low-latency access to datasets, model weights, and inference outputs.
-- 🔗 **Interoperable Storage Bridge**: Connects decentralized data storage to cloud-native AI tools.
-- 💸 **On-Chain Monetization**: Smart contracts manage access control and secure transactions for buying/renting AI models or data.
+- 🔥 **Real-Time Decentralised Retrieval**: Built with Akave SDK for low-latency access to datasets, model weights, and inference outputs.
+- 🔗 **Interoperable Storage Bridge**: Connects decentralised data storage to cloud-native AI tools.
+- 💸 **On-Chain Monetisation**: Smart contracts manage access control and secure transactions for buying/renting AI models or data.
 - 🧠 **AI-Friendly Indexing**: Automatic indexing of datasets for seamless integration with ML pipelines.
-- 🔒 **Permissioned Access**: Ensure that purchased/rented assets can't be replicated or accessed without authorization.
+- 🔒 **Permissioned Access**: Ensure that purchased/rented assets can't be replicated or accessed without authorisation.
 
 ---
 
